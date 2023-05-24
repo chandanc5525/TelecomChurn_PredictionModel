@@ -57,9 +57,7 @@ To run the project and reproduce the results, follow these steps:
 
 1. Clone the repository:
 
-2. Clone the repository:
-
-3. Execute the main script: python main.py
+2. Execute the main script: python main.py
 
 # Conclusion - 
 
