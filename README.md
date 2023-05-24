@@ -56,10 +56,10 @@ df = pd.read_csv(URL + 'telecom_churn.csv')
 To run the project and reproduce the results, follow these steps:
 
 1. Clone the repository:
-2. 
-3. Clone the repository:
-4. 
-5. Execute the main script: python main.py
+
+2. Clone the repository:
+
+3. Execute the main script: python main.py
 
 # Conclusion - 
 
